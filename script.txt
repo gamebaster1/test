@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8">
+		<title>catsfain-HOME</title>
+		<link href="catssite.css" rel="stylesheet"/>
+		 <link rel="SHORTCUT ICON" href="https://th.bing.com/th/id/OIP.CpEMuExopH_9Zy2M_INK4wHaE7?w=251&h=180&c=7&o=5&dpr=1.1&pid=1.7"/>
+		</head>
+	<body>
+	<center>
+	<h1 class="glava">funny cats imeges</h1>
+	<br>
+	<br>
+	<h1>first</h1>
+	<br>
+	<div id="dopenka">
+	<a target="_blank" href="https://www.webfx.com/web-design/color-picker/"><img src="hz.png" class="hz"></a>
+<img src="https://th.bing.com/th/id/OIP.d6I01-K8cfL1DNo2gwQxQwHaFj?w=244&h=183&c=7&o=5&dpr=1.1&pid=1.7">
+<img src="https://th.bing.com/th/id/OIP.lB4cnkLMFscREZj97mUSRAHaEO?w=310&h=180&c=7&o=5&dpr=1.1&pid=1.7">
+<img src="https://th.bing.com/th/id/OIP.lNrV2HpBETy2BWKYgtU_KwAAAA?w=249&h=180&c=7&o=5&dpr=1.1&pid=1.7">
+<img src="https://th.bing.com/th/id/OIP.ryRIaKI_SKYQUt7a1kw1dQHaE6?w=274&h=182&c=7&o=5&dpr=1.1&pid=1.7">
+<img src="https://th.bing.com/th/id/OIP.NBKr4GP33A7yi97VSxoRJwHaEK?w=324&h=182&c=7&o=5&dpr=1.1&pid=1.7">
+<img src="hz.png" class="hz">
+</div>
+<br>
+<br>
+<br>
+<br>
+<h1>love cats??</h1>
+<br>
+<div id="dopenka">
+<img src="hz.png" class="hz">
+<img src="https://th.bing.com/th/id/OIP.zn4w8OTUMHb2dLBvDpPzxAHaFj?w=235&h=180&c=7&o=5&dpr=1.1&pid=1.7">
+<img src="https://th.bing.com/th/id/OIP.aSS6auBAZWdMGu47PjXo9QHaEK?w=318&h=180&c=7&o=5&dpr=1.1&pid=1.7">
+<img src="https://th.bing.com/th?id=OIF.BYw9GwarKI%2fea7g1pVdZbQ&w=304&h=180&c=7&o=5&dpr=1.1&pid=1.7">
+<img src="https://th.bing.com/th/id/OIP.sC_xhG_Z3Hqwv4vWS0pxlwHaE7?w=290&h=193&c=7&o=5&dpr=1.1&pid=1.7">
+<img src="https://th.bing.com/th/id/OIP.byBk3b3nWbqtJAtQPxoiZgHaEK?w=311&h=180&c=7&o=5&dpr=1.1&pid=1.7">
+<img src="hz.png" class="hz">
+</div>
+<br>
+<br>
+<br>
+<br>
+<h1>Pounce</h1>
+<br>
+<div id="dopenka">
+<img src="hz.png" class="hz">
+<img src="https://th.bing.com/th/id/OIP.59F9wjd27Ue6SXYv0fHDewHaEK?w=314&h=180&c=7&o=5&dpr=1.1&pid=1.7">
+<img src="https://th.bing.com/th/id/OIP.3TB-RN7EbitWd1-w__JHqgHaE8?w=266&h=180&c=7&o=5&dpr=1.1&pid=1.7">
+<img src="https://th.bing.com/th/id/OIP.niIdEDZM_IUBlYmT7rTWqgHaD2?w=321&h=180&c=7&o=5&dpr=1.1&pid=1.7">
+<img src="https://th.bing.com/th/id/OIP.1d9vq1-oDAcsn9Ly7LxW3AHaEK?w=309&h=180&c=7&o=5&dpr=1.1&pid=1.7">
+<img src="https://th.bing.com/th/id/OIP.keondJIw5-nzsYTQ2es_fwHaFj?w=247&h=186&c=7&o=5&dpr=1.1&pid=1.7">
+<img src="hz.png" class="hz">
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<a href="file:///C:/Users/zvika/Desktop/cts%20site/script.txt" target="_blank"><button class="koko">script (html)</button></a>
+<br>
+<br>
+<a href="https://www.youtube.com/channel/UC2NgLSdJkkrZCKIwFVvl_2w" target="_blank"><img class="dev" src="https://th.bing.com/th/id/OIP.1hX8tUyNC8XTZ8u6BLuGEAHaHa?w=171&h=180&c=7&o=5&dpr=1.1&pid=1.7"></a>
+<br>
+<br>
+<br>
+<br>
+
+	</center>
+	</body>
