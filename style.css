@@ -1,0 +1,154 @@
+img{
+	transition:1s all;
+		border-radius:30px;
+			width:310px;
+	height:210px;
+}
+
+img:hover{
+	box-shadow: 12px 12px 12px gray;
+border-radius:50px;
+transform:rotate(4deg);
+		transition:0.5s all;
+
+}
+.glava{
+	font-size:75px;
+	border:5px solid #EB00FF;
+	background-color:#E5EEFF;
+	border-radius:40px;
+	
+}
+.glava:hover{
+		font-size:100px;
+	border:5px solid #EB00FF;
+	background-color:#84AEFF;
+	border-radius:50px;
+	color:#FF009E;
+			transform:rotate(0deg);
+	
+}
+.koko{
+		animation: koko 2s ease-in-out infinite;
+	width:200px;
+	height:50px;
+	font-size:20px;
+	border-radius:20px;
+	background-color:#FFFFFF;
+	border:6px solid #000000;
+	transition:0.5s all;
+}
+.koko:hover{
+		width:300px;
+	height:60px;
+	font-size:40px;
+	border-radius:40px;
+	background-color:#0088FF;
+	box-shadow:12px 12px 12px gray;
+	transition:0.5s all;
+}
+body{
+	 background-color:#FFD6C0;
+}
+
+.dev{
+			animation: inort 2s ease-in-out infinite;
+
+	width:50px;
+	height:50px;
+	border:2px solid #00A1BC;
+	transition:1s all;
+}
+
+.dev:hover{
+	animation-delay:3s;
+		width:75px;
+	height:75px;
+	transform:rotate(360deg);
+		box-shadow:0px 0px 0px gray;
+		border-radius:20px;
+		border:6px solid #00A1BC;
+	transition:1s all;
+}
+
+h1{
+	font-size:50px;
+		transition:0.5s all;
+}
+
+h1:hover{
+		transition:0.5s all;
+color:#FF009A;
+
+}
+
+.hz{
+	width:62px;
+	height:50px;	
+	transform:rotate(180deg);
+				background-color:#52AAFF;
+}
+.hz:hover{
+			width:75px;
+	height:75px;
+	transform:rotate(360deg);
+			box-shadow:6px 6px 12px gray;
+			background-color:#B4F0FF;
+					border-radius:20px;
+	transition:0.6s all;
+}
+
+#dopenka{
+	border:1px solid #00A1BC;
+	background-color:#52DDFF;
+	border-radius:30px;
+			transition:0.5s all;
+						box-shadow:6px 6px 12px gray;
+}
+
+#dopenka:hover{
+	border:1px solid #00A1BC;
+	background-color:#52DDFF;
+	border-radius:35px;
+			transition:0.5s all;
+						box-shadow:12px 12px 24px gray;
+}
+
+.gola{
+	font-size:40px;
+				transition:0.5s all;
+	color:#820063;
+}
+
+.gola:hover{
+			color:#FE00B1;		
+		transition:0.5s all;
+}
+
+@keyframes koko{
+0%{
+	box-shadow:12px 12px 40px #04FE00;
+}
+100%{
+	box-shadow:12px 12px 40px #B013FF;
+}	
+}
+
+@keyframes inort{
+0%{
+	transform: rotate(0deg);
+}
+50%{
+transform: rotate(360deg);
+background:inherit;
+}
+100%{
+transform: rotate(0deg);
+}
+}
+
+.koko:focus{
+	background-color:#FF00CE;
+width: 400px;
+
+}
